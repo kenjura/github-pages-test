@@ -1,3 +1,7 @@
+layout: page
+title: Artificer
+permalink: /Artificer
+
 ::: aside
 
 ![Artificer](../img/artificer.jpg "artificer")
